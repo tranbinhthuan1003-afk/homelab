@@ -64,7 +64,7 @@ layout: home
 >
 >### Sơ đồ hệ thống.
 > - Hình ảnh sơ đồ hệ thống
->   ![Sơ đồ hệ thống](./Image/sodo.png)
+>   ![Sơ đồ hệ thống](./sodo.png)
 > 
 > - Chi Tiết về sơ đồ
 >   - Sử dụng máy tính (cấu hình CPU i3, ram 8gb) cài đặt opnsense để làm một tường lửa có nhiệm vụ chặn và cho phép các gói tin theo các quy tắc giữa mạng internet và
